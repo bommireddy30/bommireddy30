@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bommireddy30
-- 👀 I’m interested in Developing beatiful websites which have life in it.
+- 👀 I’m interested in Developing beautiful websites which have life in it.
 - 🌱 I’m currently learning Node.js
 - 📧 You can reach me on durgareddybommireddy30@gmail.com
 
